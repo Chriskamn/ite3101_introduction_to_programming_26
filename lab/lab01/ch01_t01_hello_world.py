@@ -1,1 +1,1 @@
-promt
+promt()
