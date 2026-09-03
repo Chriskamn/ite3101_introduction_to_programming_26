@@ -1,1 +1,1 @@
-print("This is a + Apple")
+print("This is a" + Apple")
