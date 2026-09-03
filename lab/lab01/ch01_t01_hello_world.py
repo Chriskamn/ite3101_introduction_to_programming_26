@@ -1,1 +1,1 @@
-promt("he")
+print("Hello ")
