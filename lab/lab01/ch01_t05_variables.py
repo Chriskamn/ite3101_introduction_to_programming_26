@@ -1,2 +1,2 @@
-greeting_message = ('03/09/2026' )
+greeting_message = ( )
 current_excercise = 5
