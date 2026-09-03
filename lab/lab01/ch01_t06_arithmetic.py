@@ -1,2 +1,2 @@
 product = 1 * 3
-remainder 
+remainder = 1398 % 11
