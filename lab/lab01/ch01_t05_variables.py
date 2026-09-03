@@ -1,4 +1,4 @@
 import datetime 
 
-today_date = f"{date}"
+today_date = f"{datetime.datetime}"
 
