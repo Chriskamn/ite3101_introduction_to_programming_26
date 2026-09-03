@@ -1,2 +1,3 @@
-print("Hello""this is a Apple")
+print("Hello" + "this is a Apple")
+
 
