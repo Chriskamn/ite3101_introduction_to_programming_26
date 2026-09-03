@@ -1,2 +1,2 @@
-print("This is a" + "Apple")
+print("this is a" + "Apple")
 
