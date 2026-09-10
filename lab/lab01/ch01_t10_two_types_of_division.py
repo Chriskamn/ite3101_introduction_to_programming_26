@@ -3,3 +3,4 @@ num_people =6
 
 whole_cucumbers_per_person = cucmbers // num_people
 print(whole_cucumbers_per_person)
+
