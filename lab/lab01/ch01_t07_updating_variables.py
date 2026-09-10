@@ -15,3 +15,4 @@ december_rainfall = 4.06
 august_rainfall += september_rainfall + \
     october_rainfall + november_rainfall + december_rainfall
 
+
